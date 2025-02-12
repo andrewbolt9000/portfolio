@@ -1,0 +1,36 @@
+
+
+
+theme: jekyll-theme-minimal
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
+
+
+
+
+
+
+
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
+# - jekyll-feed
+# - jekyll-include-cache
+
+# theme: minima
+# remote_theme: pages-themes/minima
+# # remote_theme: jekyll/minima
+# # theme: jekyll-theme-minima
+# # remote_theme: pages-themes/modernist@v0.2.0
+
+# title: Portfolio
+# description: A portfolio of my work4
+
+# domain: andrewbolt9000.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+# url: https://andrewbolt9000.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+# baseurl:
+# # baseurl: /site_files/      # place folder name if the site is served in a subfolder
+
+# # andrewbolt9000.github.io/portfolio/
+
+
+
