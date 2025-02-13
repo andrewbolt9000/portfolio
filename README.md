@@ -8,9 +8,9 @@
 ![image info](readme_images/demo_v2_3.gif)
 
 ## Download (Beta)
-[Mac OS Version](https://github.com/builds/FretboardComputerV2.0.1-ExpiresMay2025.app)
-\nWindows Version coming soon to Steam.
+[Mac OS Version](https://github.com/builds/FretboardComputerV2.0.1-ExpiresMay2025.app)<br/>
+Windows Version coming soon to Steam.
 
 # Old Prototype Version (Text UI)
-If you want to try the retro futuristic prototype:\n
+If you want to try the retro futuristic prototype:<br/>
 https://github.com/andrewbolt9000/python_music_1
