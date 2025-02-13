@@ -8,7 +8,7 @@ _"Fretboard Calculator: Scales" is now closed source since it will be soon be re
 ![image info](readme_images/demo_v2_3.gif)
 
 ## Download (Beta)
-[Mac OS Version](https://github.com/builds/FretboardComputerV2.0.1-ExpiresMay2025.app)<br/>
+[Mac OS Version](https://github.com/builds/Fretboard_Computer_V2.0.1-ExpiresMay2025.zip)<br/>
 Windows Version coming soon to Steam.
 
 # Old Prototype Version (Text UI)
