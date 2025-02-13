@@ -1,5 +1,5 @@
 # Fretboard Calculator: Scales
-_"Fretboard Calculator: Scales" is now closed source since it will be soon be released on Steam._
+_"Fretboard Calculator: Scales" is now closed-source, since it will be soon be released on Steam._
 
 **Fretboard Calculator: Scales** is a desktop application for learning how to play any musical scale on the guitar.  It also allows the user to instantly search for every scale containing a given set of notes.
 
