@@ -1,5 +1,3 @@
-# portfolio
-
 # Fretboard Calculator: Scales
 _"Fretboard Calculator: Scales" is now closed source since it will be soon be released on Steam._
 
@@ -10,6 +8,8 @@ _"Fretboard Calculator: Scales" is now closed source since it will be soon be re
 ## Download (Beta)
 [Mac OS Demo](https://github.com/andrewbolt9000/portfolio/raw/refs/heads/main/builds/Fretboard_Computer_V2.0.1-ExpiresMay2025.zip) _- Demo version expires May 2025._<br/>
 Windows Version coming soon to Steam.
+
+I'm still working on compatablity with all version of Mac OS.
 
 # Old Prototype Version (Text UI)
 If you want to try the retro futuristic prototype:<br/>
