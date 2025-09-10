@@ -4,14 +4,11 @@
 
 
 
-
-
-
 /* Jackwrite font */
 @font-face {
   font-family: 'Jackwrite';
-  src: url('/assets/fonts/Jackwrite.woff2') format('woff2'),
-       url('/assets/fonts/Jackwrite.woff') format('woff');
+  src: url('{{ "/assets/fonts/Jackwrite.woff2" | relative_url }}') format('woff2'),
+       url('{{ "/assets/fonts/Jackwrite.woff" | relative_url }}') format('woff');
   font-weight: normal;
   font-style: normal;
 }
@@ -19,8 +16,8 @@
 /* Noto Sans Egyptian Hieroglyphs */
 @font-face {
   font-family: 'NotoSansEgyptianHieroglyphs';
-  src: url('/assets/fonts/NotoSansEgyptianHieroglyphs-Regular.woff2') format('woff2'),
-       url('/assets/fonts/NotoSansEgyptianHieroglyphs-Regular.woff') format('woff');
+  src: url('{{ "/assets/fonts/NotoSansEgyptianHieroglyphs-Regular.woff2" | relative_url }}') format('woff2'),
+       url('{{ "/assets/fonts/NotoSansEgyptianHieroglyphs-Regular.woff" | relative_url }}') format('woff');
   font-weight: normal;
   font-style: normal;
 }
@@ -28,12 +25,11 @@
 /* Jost Medium */
 @font-face {
   font-family: 'JostMedium';
-  src: url('/assets/fonts/Jost-Medium.woff2') format('woff2'),
-       url('/assets/fonts/Jost-Medium.woff') format('woff');
+  src: url('{{ "/assets/fonts/Jost-Medium.woff2" | relative_url }}') format('woff2'),
+       url('{{ "/assets/fonts/Jost-Medium.woff" | relative_url }}') format('woff');
   font-weight: 500;
   font-style: normal;
 }
-/*
 
 .typewriter {
   font-family: 'Jackwrite', 'JostMedium',  sans-serif !important;
