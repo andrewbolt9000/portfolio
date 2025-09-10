@@ -1,42 +1,31 @@
-title: My Company
-description: Official website for My Company
+title: Freboard Calculator
+description: Official website for Fretboard Calculator
 baseurl: "" # leave blank if root
 url: "https://andrewbolt9000.github.io" # or your custom domain
 
 
 
-# title: Octocat's homepage
-# description: Bookmark this to keep an eye on my project updates!
 
-# theme: jekyll-theme-midnight
-# remote_theme: pages-themes/midnight@v0.2.0
-# plugins:
-# - jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: minima
 
-
+# Optional: if you want GitHub-style Pages config
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 
 
-# # plugins:
-# # - jekyll-remote-theme # add this line to the plugins list if you already have one
-# # - jekyll-feed
-# # - jekyll-include-cache
-
-# # theme: minima
-# # remote_theme: pages-themes/minima
-# # # remote_theme: jekyll/minima
-# # # theme: jekyll-theme-minima
-# # # remote_theme: pages-themes/modernist@v0.2.0
-
-# # title: Portfolio
-# # description: A portfolio of my work4
-
-# # domain: andrewbolt9000.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-# # url: https://andrewbolt9000.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-# # baseurl:
-# # # baseurl: /site_files/      # place folder name if the site is served in a subfolder
-
-# # # andrewbolt9000.github.io/portfolio/
+header_pages:
+  - index.md
+  - support.md
+  - about.md
 
 
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      css: /assets/css/custom.css
 

@@ -1,0 +1,177 @@
+---
+---
+
+
+
+
+
+
+
+/* Jackwrite font */
+@font-face {
+  font-family: 'Jackwrite';
+  src: url('/assets/fonts/Jackwrite.woff2') format('woff2'),
+       url('/assets/fonts/Jackwrite.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Noto Sans Egyptian Hieroglyphs */
+@font-face {
+  font-family: 'NotoSansEgyptianHieroglyphs';
+  src: url('/assets/fonts/NotoSansEgyptianHieroglyphs-Regular.woff2') format('woff2'),
+       url('/assets/fonts/NotoSansEgyptianHieroglyphs-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Jost Medium */
+@font-face {
+  font-family: 'JostMedium';
+  src: url('/assets/fonts/Jost-Medium.woff2') format('woff2'),
+       url('/assets/fonts/Jost-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+/*
+
+.typewriter {
+  font-family: 'Jackwrite', 'JostMedium',  sans-serif !important;
+  font-size: 20px;
+}
+*/
+
+
+/* Apply fonts */
+body {
+  /*font-family: 'JostMedium', sans-serif !important;*/
+  font-family: 'JostMedium', sans-serif;
+  /*font-size: 20px;*/
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'JostMedium', 'Jackwrite', sans-serif !important;
+  /*font-size: 60px;*/
+    margin-top: 30px;  /* adjust value as needed */
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.glider-contain {
+  width: 90vw;       /* full viewport width */
+  margin: 0 auto;
+  padding: 2rem 0;
+  overflow: visible;  /* allow images to grow */
+}
+
+
+
+.glider img {
+  border-radius: 15px; /* adjust value for more/less rounding */
+  border: 4px solid #FFF;
+  /*border: 4px solid #ccc;  */
+  border-radius: 12px;      /* rounded corners */
+  box-sizing: border-box;    /* include border in element size */
+  display: block;
+  width: 80%;              /* fills slide */
+  height: auto;             /* maintain aspect ratio */
+  margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.glider-prev,
+.glider-next {
+  position: absolute;       /* position over the carousel */
+  top: 50%;                 /* vertically centered */
+  transform: translateY(100%);
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 10;
+
+    padding: -10px;                /* adjust horizontal/vertical offset if needed */
+  line-height: 1;            /* helps vertical centering */
+}
+
+.glider-prev {
+  left: -60px !important;
+  /*transform: translateY(-50%);*/
+}
+
+.glider-next {
+  right: -60px !important;
+  /*transform: translateY(-50%);*/
+}
+
+.glider-prev:hover,
+.glider-next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+
+
+.half-screen-img-old {
+  min-width: 50vw;          /* 50% of viewport width */
+  max-height: 50vh;     /* at least 50% of viewport height */
+  object-fit: cover;    /* maintain proportions */
+  display: block;       /* removes inline gap */
+  margin: 0 auto;       /* optional: center horizontally */
+}
+
+.half-screen-img {
+  max-width: 50vw;   /* limit width */
+  max-height: 50vh;  /* limit height */
+  width: auto;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+
+
