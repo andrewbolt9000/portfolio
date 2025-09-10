@@ -13,8 +13,8 @@ Need help? Contact us at
 </a>
 
 Send a <a href="mailto:FretboardCalc@proton.me?subject=Feature%20Request">
-  Feature Request
-</a>.
+  Feature Request.
+</a>
 
 
 ## Alternate tunings
