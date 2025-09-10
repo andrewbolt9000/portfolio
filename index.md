@@ -21,13 +21,6 @@ hide_title: true
 
 </section>
 
-<!-- <section id="screenshots" style="display:flex; flex-wrap:wrap; justify-content:center; gap:2rem; padding:2rem;">
-  <img src="{{ '/assets/images/Screenshot 1.png' | relative_url }}" alt="Screenshot 1" style="max-width:300px;">
-  <img src="{{ '/assets/images/Screenshot 2.png' | relative_url }}" alt="Screenshot 2" style="max-width:300px;">
-  <img src="{{ '/assets/images/Screenshot 3.png' | relative_url }}" alt="Screenshot 3" style="max-width:300px;">
-</section>
-
- -->
 
 
 <section id="screenshots" style="padding:0;">
