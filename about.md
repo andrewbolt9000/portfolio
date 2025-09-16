@@ -40,7 +40,7 @@ The goal of Version 2 was to write software tools that I would personally use bu
 - Closer to a calculator.  A dependable tool.
 - I've always wanted to write application code.
 
-For the UI framework I chose <a href="https://kivy.org/" target="_blank">Kivy</a> because it compiles to Mac OSX, iOS, Windows, and android.  Eventually I would like release on all those platforms as well, but that is not a priority yet.  Contact [Support](/support) if there's a platform you'd like to see first on the list!
+For the UI framework I chose <a href="https://kivy.org/" target="_blank">Kivy</a> because it compiles to Mac OSX, iOS, Windows, and android.  Eventually I would like release on all those platforms as well, but that is not a priority yet.  Contact [Support](/portfolio/support) if there's a platform you'd like to see first on the list!
 
 Early prototype:
   <img src="{{ '/assets/images/Screenshot 2024-11-12.png' | relative_url }}" alt="Demo GIF" style="width: 100%; height: auto; display: block;">
@@ -64,7 +64,7 @@ More features are planned for release!  If you see a feature here that <i>you</i
 If there's a scale or specific tuning you'd like to see, send a request and I'll add it in!
 
 ### Beta for Windows
-A windows release is planned and being beta tested now.  Contact [Support](/support) if interested in beta testing new features or the planned windows release.
+A windows release is planned and being beta tested now.  Contact [Support](/portfolio/support) if interested in beta testing new features or the planned windows release.
 
 
 ## The future of Fretboard Calculator
@@ -75,7 +75,7 @@ If this program prooves useful to other people, I will continue it's development
 <div style="text-align: center;">
 <b>Thanks for check this thing out!</b>
 </div>
-<div style="text-align: right; padding-right: 33%;">
+<div style="text-align: right; padding-right: 25%;">
 <br>~ Andrew B
 <br>
 <i>Founding member of Washington Industries, <br>a family owned Fretboard Calculator company</i>

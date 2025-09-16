@@ -5,7 +5,7 @@ hide_title: true
 ---
 
 # SITE UNDER CONSTRUCTION!!
-## APPLICATION SCHEDULED TO RELEASE IN OCTOBER
+### Available in October
 
 
 <section id="hero" style="text-align:center; padding:1rem;">
@@ -49,7 +49,7 @@ hide_title: true
 - See scale notes as intervals from the root.
 
 
-For support and feature requests see [Support](/support) page.
+For support and feature requests see [Support](/portfolio/support) page.
 <br>
 Learn more on our [origin story here](/about).
 
