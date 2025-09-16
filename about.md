@@ -78,7 +78,7 @@ If this program prooves useful to other people, I will continue it's development
 <div style="text-align: right; padding-right: 25%;">
 <br>~ Andrew B
 <br>
-<i>Founding member of Washington Industries, <br>a family owned Fretboard Calculator company</i>
+<i>Founding member of Washington Instruments, <br>a family owned Fretboard Calculator company</i>
 </div>
 
 
