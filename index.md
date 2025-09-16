@@ -51,5 +51,5 @@ hide_title: true
 
 For support and feature requests see [Support](/portfolio/support) page.
 <br>
-Learn more on our [origin story here](/about).
+Learn more on our [origin story here](/portfolio/about).
 
