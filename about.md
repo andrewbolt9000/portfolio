@@ -30,7 +30,7 @@ Python code for terminal UI available in <a href="https://github.com/andrewbolt9
 ## Fretboard Calculator: Scale version 2.0 (Scales)
 
 The goal of Version 2 was to write software tools that I would personally use but were also polished enough for a public release.  I chose to make it a desktop app over a web app for many reasons:
-- Not relyant on internet connection nor server.  Offline access.
+- Not reliant on internet connection nor server.  Offline access.
 - Low latency.
 - Easier MIDI configuration (possibly).
 - Not subsription based
@@ -69,7 +69,7 @@ A windows release is planned and being beta tested now.  Contact [Support](/port
 
 ## The future of Fretboard Calculator
 
-If this program prooves useful to other people, I will continue it's development.  Version 2 (current version / Fretboard Calculator: Scales) is narrowly focoused on scales, but I would like to build new interfaces for chords and harmony, which I expect to be a larger project.  A mobile release is being considered but it would involve limiting or reworking the interface.  Also a mobile experience does not reflect a core value of this project, which is to connect with music rather than The Network of Distraction.  Fretboard Calculator does not need the internet and will work in the event of an apocalype.  As the network colapses and servers go offline, we want our software and computers to still help us.  With that in mind, the best way to enjoy Fretboard Calculator is to go out to a internet-less cabin in the woods with a laptop, hardrive full of movies, and Fretboard Calculutator.  Then explore a new corner of the musical universe with your instrument and a fresh scale.
+If this program proves useful to other people, I will continue it's development.  Version 2 (current version / Fretboard Calculator: Scales) is narrowly focoused on scales, but I would like to build new interfaces for chords and harmony, which I expect to be a larger project.  A mobile release is being considered but it would involve limiting or reworking the interface.  Also a mobile experience does not reflect a core value of this project, which is to connect with music rather than The Network of Distraction.  Fretboard Calculator does not need the internet and will work in the event of an apocalype.  As the network colapses and servers go offline, we want our software and computers to still help us.  With that in mind, the best way to enjoy Fretboard Calculator is to go out to a internet-less cabin in the woods with a laptop, hardrive full of movies, and Fretboard Calculutator.  Then explore a new corner of the musical universe with your instrument and a fresh scale.
 
 
 <div style="text-align: center;">
