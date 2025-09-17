@@ -72,13 +72,19 @@ A windows release is planned and being beta tested now.  Contact [Support](/port
 If this program proves useful to other people, I will continue it's development.  Version 2 (current version / Fretboard Calculator: Scales) is narrowly focoused on scales, but I would like to build new interfaces for chords and harmony, which I expect to be a larger project.  A mobile release is being considered but it would involve limiting or reworking the interface.  Also a mobile experience does not reflect a core value of this project, which is to connect with music rather than The Network of Distraction.  Fretboard Calculator does not need the internet and will work in the event of an apocalype.  As the network colapses and servers go offline, we want our software and computers to still help us.  With that in mind, the best way to enjoy Fretboard Calculator is to go out to a internet-less cabin in the woods with a laptop, hardrive full of movies, and Fretboard Calculutator.  Then explore a new corner of the musical universe with your instrument and a fresh scale.
 
 
-<div style="text-align: center;">
-<b>Thanks for check this thing out!</b>
+<div style="text-align: center; padding-top:1.5rem;">
+  <b>Thanks for check this thing out!</b>
 </div>
-<div style="text-align: right; padding-right: 25%;">
-<br>~ Andrew B
-<br>
-<i>Founding member of Washington Instruments, <br>a family owned Fretboard Calculator company</i>
+
+<div style="display: flex; flex-direction: column; align-items: flex-end; padding-right: 25%; padding-top:1.5rem;">
+  <div style="font-size: 1.5rem;">~ Andrew B</div>
+  <i>
+    Founding member of Washington Instruments, <br>
+    a family owned Fretboard Calculator company
+  </i>
+  <img src="{{ '/assets/images/washington_instruments.png' | relative_url }}"
+       alt="WA Instruments"
+       style="width: 30%; height: auto; margin-top: 10px;">
 </div>
 
 
