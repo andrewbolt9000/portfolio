@@ -49,7 +49,7 @@ hide_title: true
 - See scale notes as intervals from the root.
 
 
-For support and feature requests see [Support](/portfolio/support) page.
+For support and feature requests see [Support](/fretboardcalculator/support) page.
 <br>
-Learn more on our [origin story here](/portfolio/about).
+Learn more on our [origin story here](/fretboardcalculator/about).
 

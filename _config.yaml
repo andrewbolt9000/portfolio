@@ -1,6 +1,6 @@
 title: Fretboard Calculator
 description: Official website for Fretboard Calculator
-baseurl: /portfolio # repo name
+baseurl: /fretboardcalculator # repo name
 url: "https://andrewbolt9000.github.io"
 
 theme: minima
